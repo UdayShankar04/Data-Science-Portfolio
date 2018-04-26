@@ -21,4 +21,5 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Micro Projects:
     
    - __Python__
-		     - [Recommender Systems with Python](https://github.com/UdayShankar04/Data-Science-Portfolio/blob/master/Recommender%20Systems%20with%20Python.ipynb): It tells us about the movies review on the basis of rating given by users.
+        - [Recommender Systems with Python](https://github.com/UdayShankar04/Data-Science-Portfolio/blob/master/Recommender%20Systems%20with%20Python.ipynb): It tells us about the movies review on the basis of rating given by users.
+        - [Summer Olympic games](https://github.com/UdayShankar04/Data-Science-Portfolio/blob/master/Summer%20Olympic%20games.ipynb): Here, you will working with data recorded from the Summer Olympic games that goes as far back as 1896! This is a rich dataset that will allow you to fully apply the data manipulation techniques you have learned. You will pivot, unstack, group, slice, and reshape your data as you explore this dataset and uncover some truly fascinating insights.
