@@ -25,7 +25,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
         - [Summer Olympic games](https://github.com/UdayShankar04/Data-Science-Portfolio/blob/master/Summer%20Olympic%20games.ipynb): Here, you will working with data recorded from the Summer Olympic games that goes as far back as 1896! This is a rich dataset that will allow you to fully apply the data manipulation techniques you have learned. You will pivot, unstack, group, slice, and reshape your data as you explore this dataset and uncover some truly fascinating insights.
      
     - __R__
-		     - [Breast Cancer Project](http://rpubs.com/uday04/383227):  This is an early Exploratory Data Analysis for the Personalized Medicine: Redefining Cancer Treatment challenge. I will be using ggplot2 and the tidyverse tools to study and visualise the structures in the data.
+ 
+       - [Breast Cancer Project](http://rpubs.com/uday04/383227):  This is an early Exploratory Data Analysis for the Personalized Medicine: Redefining Cancer Treatment challenge. I will be using ggplot2 and the tidyverse tools to study and visualise the structures in the data.
 We have been challenged to automatically classify genetic mutations that contribute to cancer tumor growth (so-called “drivers”) in the presence of mutations that are don’t affect the tumors (“passengers”).
 	    	
         
