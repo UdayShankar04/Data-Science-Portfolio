@@ -18,3 +18,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
         - [Stack Overflow Developer Survey](http://rpubs.com/uday04/381766) : Stack Overflow is the world’s largest online community for developers, and you have probably used it to find an answer to a programming question. The second chapter uses data from the annual Stack Overflow Developer Survey to practice predictive modeling and find which developers are more likely to work remotely.
         - [Predict fuel efficiency from a US Department of Energy dataset for real cars of today](http://rpubs.com/uday04/381749): The first step before you start modeling is to explore your data. In this course we’ll practice using tidyverse functions for exploratory data analysis. Start off this case study by examinig your data set and visualizing the distribution of fuel efficiency. The ggplot2 package, with functions like ggplot() and geom_histogram() are included in the tidyverse.
         
+- ### Micro Projects:
+    
+   - __Python__
+		     - [Recommender Systems with Python](https://github.com/UdayShankar04/Data-Science-Portfolio/blob/master/Recommender%20Systems%20with%20Python.ipynb): It tells us about the movies review on the basis of rating given by users.
