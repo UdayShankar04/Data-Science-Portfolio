@@ -28,7 +28,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
      
     - __R__
  
-       - [Breast Cancer Project](http://rpubs.com/uday04/383227):  This is an early Exploratory Data Analysis for the Personalized Medicine: Redefining Cancer Treatment challenge. I will be using ggplot2 and the tidyverse tools to study and visualise the structures in the data.
-We have been challenged to automatically classify genetic mutations that contribute to cancer tumor growth (so-called “drivers”) in the presence of mutations that are don’t affect the tumors (“passengers”).
+       - [Breast Cancer Project](http://rpubs.com/uday04/383227):  This is an early Exploratory Data Analysis for the Personalized Medicine: Redefining Cancer Treatment challenge. I will be using ggplot2 and the tidyverse tools to study and visualise the structures in the data.We have been challenged to automatically classify genetic mutations that contribute to cancer tumor growth (so-called “drivers”) in the presence of mutations that are don’t affect the tumors (“passengers”).
+         -[Behavioral Risk Factor Surveillance System](http://rpubs.com/uday04/389413): The BRFSS-2013 dataset was sampled from the non-institutionalised adult population (i.e. 18 years and older) residing in the US. The data was collected through landline and cellular-telephone based surveys.Disproportionate stratified sampling, which is more efficient than simple random sampling, was used for the landline sample. The cellular sample was generated from randomly selected respondents, with an equal probability of selection.As random sampling was used for both data collection methods, the data for the sample is generalizable to the population. On the other hand, as this is an observational study, it won’t be possible to make causal inferences from the data.
 	    	
         
