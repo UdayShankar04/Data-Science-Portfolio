@@ -10,6 +10,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
   - ### Data Analysis and Visualisation
 
      - __Python__ 
+        - [Haberman's cancer Treatment](https://github.com/UdayShankar04/Data-Science-Portfolio/blob/master/Haberman%20cancer%20treatment/Haberman's%20Survival.pdf):The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
         - [Linear Regression Housing Prediction](https://github.com/UdayShankar04/Data-Science-Portfolio/blob/master/HousePrediction.ipynb):Analysing and building a Prediction model using linear Regression of USA Housing Price dataset. 
         - [Pima Indian Diabetes Study](https://github.com/UdayShankar04/Data-Science-Portfolio/blob/master/DiabetesStudy.ipynb): The objective of this project is to apply exploratory analysis and regression techniques to identify which features affect  the most.
        
